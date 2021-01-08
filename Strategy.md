@@ -135,7 +135,7 @@ Später kann das ganze auch für andere Sipplinge wiederholt werden.
 # Kluft und Ständeordnung
 
 \underline{Alter}
-
+8-12 Jahre
 
 \underline{Kategorie}
 Proben
