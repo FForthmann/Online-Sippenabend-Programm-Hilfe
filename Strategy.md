@@ -1,7 +1,7 @@
 ---
 disablearabicstart: true
 lang: de-DE
-include-after: []
+include-before: [Deckblatt.pdf]
 forceimages: true
 force-image-position: true
 link-citations: true
@@ -202,6 +202,8 @@ Zutaten, Backutensilien, Kinder im Vorraus Informieren was gebraucht wird (viele
 
 Backen eignet sich eher für kleinere Sippen und vor allem ältere Sipplinge! Ihr müsst immer bedenken, wie geschickt eure Sipplinge sind und ob sie die Möglichkeit haben ggf. Zutaten zu kaufen und selbständig zu backen. Alternativ können die Zutaten auch vorbei gebracht werden.
 
+Alternativ kann auch ein Pfadfinder-Essen selber gemacht werden oder ein Tee durch natürliche Zutaten selber gemacht werden.
+
 \pagebreak
 
 # Farbe an Kopf 
@@ -349,18 +351,76 @@ Alle Personen müssen sich bei der Verwendung von Kahoot dort mit der Kennnummer
 
 Bereits erstellte Quizze sind folgende: 
 
-Von Kim: 
+**Von Kim:** 
 
 * https://create.kahoot.it/share/pfadfinderquiz/c2633ea4-6375-4e4a-b09e-df75467c1fa5 
 * https://create.kahoot.it/share/pfadfinderquiz-2/d320dc67-4651-46c6-ad4c-3c337d981ee1
 
-Anderweitig: 
+**Anderweitig:** 
 
 * https://create.kahoot.it/share/pfadfindergeschichte/913fb82e-83ff-4dcb-82e2-7ce9f04e088f 
 * https://www.welt.de/kmpkt/article179112782/Survival-Quiz-11-Aufgaben-die-jeder-12-jaehrige-Pfadfinder-loesen-kann-du-auch.html 
 
-GeoLino (eher etwas für 8-9-jährige):
+**GeoLino (eher etwas für 8-9-jährige):**
 
 * https://www.geo.de/geolino/quiz-ecke/14258-quiz-wissentest-wissenstest-pfadfinder 
 
 \pagebreak
+
+# Lieder erraten 
+
+\underline{Alter}
+8-12 Jahre
+
+\underline{Kategorie}
+Spiele
+
+\underline{Vorbereitung/Nachbereitung}
+Liederbuch, ggf. Gitarren-Liederbuch bereitlegen. Das auch den Sipplingen sagen. 
+
+&nbsp;
+
+\underline{Durchführung}
+Es wird ein Spiel gespielt wer am meisten Lieder errät ohne, dass der Text mitgesungen wird. Dafür spielt der Ulane entweder die Lieder mit der Gitarre oder summt sie bzw. macht ihre Melodie nach. Es kriegt immer die Person einen Punkt, die das Lied als erstes errät. 
+
+Man kann außerdem reihum gehen. Wer das Lied zuerst erraten hat bekommt einen Punkt und macht das nächste Lied nach. 
+
+\pagebreak
+
+# Filme ansehen
+
+\underline{Alter}
+8-15 Jahre
+
+\underline{Vorbereitung/Nachbereitung}
+Videos raussuchen.
+
+&nbsp;
+
+\underline{Durchführung}
+Gemeinsam mit den Sipplingen guckt man sich ein paar Filme über unsere beeindruckendsten Fahrten an und spricht dann ggf. noch über die besten Erlebnisse der Sipplinge. Dafür ist es **nicht** zu empfehlen, ein Video über Screensharing zu teilen, weil das Audio so nicht gut zu verstehen ist. 
+
+Stattdessen sollte man gemeinsam ein ungelistetes YouTube-Video über Services wie https://w2g.tv/ gucken. 
+
+Ein paar Filme wurden bereits hochgeladen. Andere sind auf der Stammesfestplatte zu finden. 
+
+* SoLa 2018: https://youtu.be/zdDx95F4l54
+* SoLa 2017: https://youtu.be/E144Bc7P3NA
+* Lappland 2013: https://youtu.be/L4jFcfRWJyI
+* SoFa 2017: https://youtu.be/P4YItFYwmPc
+* SoFa 2018: https://youtu.be/TyBGAuSPWVE
+
+\pagebreak
+
+# Sippenchronik schreiben
+
+\underline{Alter}
+10-14 Jahre
+
+\underline{Vorbereitung/Nachbereitung}
+Den Kindern sagen, dass sie Papier und Stifte zum Verzieren brauchen. Ggf. Fotos von den Fahrten heraussuchen. 
+
+&nbsp;
+
+\underline{Durchführung}
+Gemeinsam tauscht man sich über die bislang schönsten Fahrten aus. Bei diesem Sippenabend wird die erste Sippenchronik angefangen oder ergänzt. Jeder sucht sich eine Fahrt aus, die er besonders gut fand und schreibt über sie einen Chronikeintrag auf ein Blatt Papier. Später werden die Blätter zu einer Chronik zusammengefügt. Der Kreativität sind hier keine Grenzen gesetzt!
