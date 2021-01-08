@@ -246,69 +246,121 @@ Die Kinder sollen Morsen lernen. Der Ulane sollte nach Möglichkeit vorab eine M
 * Woher kommt das Morsen ? Wer hat es erfunden ? 
 * Warum brauchen wir Pfadfinder es immer noch ? 
 
+Nun kann sich der Ulane oder ein erfahrener Sippling ein Satz ausdenken und diesen im Morsecode, mit Hilfe der Tabelle übersetzen. Dieser Satz kann nun per Taschenlampe oder Klatschzeichen übermittelt werden. Parallel müssen die anderen Sipplinge das, was sie verstehen mit schreiben. Erklärt noch einmal am Anfang, dass sie wirklich nur Punkt (.) für kurz und Strich (-) für lang aufschreiben sollen. Nachdem der Satz übermittelt ist, soll dieser von den Sipplingen, mit hilfe der Tabelle, in Buchstaben entschlüsselt werden. 
 
+Danach sollen die Kinder ihren Namen in schönster Morseschrift auf eine Pappe oder ein Papier malen, sodass man das Schild später an die Zimmertür hängen kann. Hierbei können die Kinder ihrer Kreativität freien lauf lassen. Später kann das Schild dann aufgehangen oder angeklebt werden. 
+
+Ihr könnt auch noch die Merkwörter durchgehen und daraus ein Quiz machen. Jemand sagt zum Beispiel ein Buchstaben und alle Anderen ergänzen das dazugehörige Merkwort. Hierfür könnt Ihr auch zusätzlich noch eine Liste mit den Merkwörtern verschicken und erklären wie das Silbenzählen mit den Merkwörtern funktioniert.
+
+\pagebreak
 
 # Sternbilder 
 
 \underline{Alter}
-
+10-13 Jahre
 
 \underline{Kategorie}
-
+Proben
 
 \underline{Vorbereitung/Nachbereitung}
+Keine Vor- oder Nachbereitung notwendig.
 
+&nbsp;
 
 \underline{Durchführung}
+
+Klärt zuerst die Möglichkeiten, wie man den Nordstern finden kann. Dann sammelt die wichtigsten Sternbilder, welche wir am Nachthimmel finden können, und schaut euch diese an. Ihr könnt auch noch über die anordnung der acht Planeten reden und einen Merkspruch hierfür finden. Der Ulane kann auch hierfür Sternbilder aus dem Internet raussuchen. Hierfür sind auch sehr die Sternenkarten des Hamburger Planetariums zu empfehlen, welche kostenlos heruntergeladen werden können. Diese zeigen immer die aktuellen Sternenhimmel, und können auch ganz bestimmte Himmel zu bestimmten Zeiten anzeigen, wie Geburt, usw. Die Kinder können sich sogar ein Bild ihres persönlichen Sternenhimmels, zum Zeitpunkt ihrer Geburt, ausdrucken lassen. Dann können sie am Ende des Sippenabends auch etwas Materielles mitnehmen. Das Thema ist eventuell etwas trocken, weil sich nicht zusammen der Nachthimmel, wie auf einem Lager, in echt angeguckt werden kann. Versucht also eine gute Balance zwischen Spielen und Lernen zu erreichen.  
+
+Ihr könnt auch probieren in Eurem Zimmer durch eine Taschenlampe und eine vorher gebastelte Schablone Sternzeichen in der Dunkelheit an eine Eurer Wände zu projezieren und die Sipplinge raten zu lassen. Das solltet Ihr aber vorher ausprobieren.
+
+\pagebreak
 
 # Werwolf 
 
 \underline{Alter}
+10-15 Jahre
 
 
 \underline{Kategorie}
-
+Spiele
 
 \underline{Vorbereitung/Nachbereitung}
+Die Sipplinge und der Ulane brauchen alle Whatsapp oder eine andere App mit der in privaten Chats miteinander kommuniziert werden kann. Alternativ kann auch der private Chat in Zoom benutzt werden.
 
+&nbsp;
 
 \underline{Durchführung}
+
+Der Ulane sollte in diesem Spiel die Spielleitung übernehmen. Gespielt wird das Spiel Werwolf. Der Ulane schickt jedem Sippling seine individuelle Rolle im Spiel per Whatsapp, dies kann auch schon vor dem Sippenabend passieren. Wenn alle Sipplinge ihre Rolle haben, können alle wie im analogen Spiel "einschlafen”. Der Spielleiter ruft nach und nach alle Rollen auf, welche ihm dann die Aktionen per Whatsapp oder per Zettel vor dem Bildschirm schreiben. Kommuniziert wird in der Nacht also hauptsächlich über Whatsapp oder per Zettel, zwischen Sippling und Ulane. Wenn die Nacht vorbei ist, kann in die große Anklagerunde bzw. die Diskussion losgehen, dies kann natürlich in echt und ohne Whatsapp passieren. Hierfür leitet der Spielleiter die Anklage Runde an. Per Handzeichen kann dann abgestimmt werden, wer sterben soll. Dies wird so oft wiederholt, bis entweder die Werwölfe oder die Dorfbewohner gewonnen haben. 
+
+\pagebreak
 
 # Pfadfindertabu
 
 \underline{Alter}
-
+8-15 Jahre
 
 \underline{Kategorie}
-
+Spiele
 
 \underline{Vorbereitung/Nachbereitung}
+Es müssen Karten zu einem gewählten Thema, zum Beispiel Pfadfindertum, Mat, Fahrtengegenstände, Pflanzen, Erste-Hilfe, Ämter oder andere Themen vorbereitet werden. Michel hat bereits Karten, die er gerne zur Verfügung stellt. 
 
+&nbsp;
 
 \underline{Durchführung}
+Es können die einzelnen Karten als Bild an die Sipplinge per Whatsapp geschickt werden oder per Zoom-Privatchat. Dann kann das Spiel wie gewohnt losgehen, ein Spieler erklärt einen Begriff, auf der Karte und die anderen müssen raten. Punkteverteilung muss vorher abgesprochen werden. Sinnvoll ist es aber dem Erklärer und dem Erratendem einen Punkt zu geben, wenn ein Wort erraten wurde. Wer am meisten Punkte hat, hat gewonnen. 
+
+\pagebreak
 
 # Scribbel.io
 
 \underline{Alter}
-
+8-15 Jahre
 
 \underline{Kategorie}
-
+Online Spiele
 
 \underline{Vorbereitung/Nachbereitung}
+Eröffnung eines Spiels auf Scribble.io, eventuelle personalisierung des Spiels mit Pfadfinder-Begriffen.
 
+&nbsp;
 
 \underline{Durchführung}
+Alle Teilnehmer treten dem Spiel per Link bei und fangen an zu spielen. Generell eher als Notlösung oder für die letzten 15 Minuten.
+
+\pagebreak
 
 # Quizze
 
 \underline{Alter}
-
+8-15 Jahre
 
 \underline{Kategorie}
-
+Spiele
 
 \underline{Vorbereitung/Nachbereitung}
+Das Quizz muss erstellt werden, dafür kann zum Beispiel Kahoot genutzt werden. Oder es wird ein bereits erstelltes Quizz genutzt.
 
+&nbsp;
 
 \underline{Durchführung}
+Alle Personen müssen sich bei der Verwendung von Kahoot dort mit der Kennnummer einloggen.
+
+Bereits erstellte Quizze sind folgende: 
+
+Von Kim: 
+
+* https://create.kahoot.it/share/pfadfinderquiz/c2633ea4-6375-4e4a-b09e-df75467c1fa5 
+* https://create.kahoot.it/share/pfadfinderquiz-2/d320dc67-4651-46c6-ad4c-3c337d981ee1
+
+Anderweitig: 
+
+* https://create.kahoot.it/share/pfadfindergeschichte/913fb82e-83ff-4dcb-82e2-7ce9f04e088f 
+* https://www.welt.de/kmpkt/article179112782/Survival-Quiz-11-Aufgaben-die-jeder-12-jaehrige-Pfadfinder-loesen-kann-du-auch.html 
+
+GeoLino (eher etwas für 8-9-jährige):
+
+* https://www.geo.de/geolino/quiz-ecke/14258-quiz-wissentest-wissenstest-pfadfinder 
+
+\pagebreak
